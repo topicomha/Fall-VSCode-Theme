@@ -1,0 +1,71 @@
+{
+        "name": "Fall & Halloween Theme",
+        "type": "dark",
+        "colors": {
+          "editor.foreground": "#FFFFFF", 
+          "editor.background": "#2d3436",
+          "editorCursor.foreground": "#D35400", 
+          "editor.lineHighlightBackground": "#444444",
+          "editorLineNumber.foreground": "#7C7C7C",
+          "editor.selectionBackground": "#A04000",
+          "editor.selectionHighlightBackground": "#F39C12",
+          "editor.wordHighlightBackground": "#E67E22",
+          "editor.wordHighlightStrongBackground": "#F1C40F",
+          "editorWhitespace.foreground": "#555555",
+          "editorIndentGuide.background": "#444444",
+          "editorIndentGuide.activeBackground": "#A04000",
+          "activityBar.background": "#2C3E50",
+          "activityBar.foreground": "#FFFFFF",
+          "activityBarBadge.background": "#D35400",
+          "activityBarBadge.foreground": "#FFFFFF",
+          "sideBar.background": "#2C3E50",
+          "sideBar.foreground": "#FFFFFF",
+          "statusBar.background": "#D35400",
+          "statusBar.foreground": "#FFFFFF",
+          "titleBar.activeBackground": "#2C3E50",
+          "titleBar.activeForeground": "#FFFFFF",
+          "button.background": "#E67E22",
+          "button.foreground": "#FFFFFF",
+          "button.hoverBackground": "#D35400"
+        },
+        "tokenColors": [
+          {
+            "scope": ["comment"],
+            "settings": {
+              "foreground": "#7C7C7C",
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": ["keyword"],
+            "settings": {
+              "foreground": "#F39C12"
+            }
+          },
+          {
+            "scope": ["variable"],
+            "settings": {
+              "foreground": "#FFFFFF"
+            }
+          },
+          {
+            "scope": ["string"],
+            "settings": {
+              "foreground": "#E67E22"
+            }
+          },
+          {
+            "scope": ["constant"],
+            "settings": {
+              "foreground": "#F1C40F"
+            }
+          },
+          {
+            "scope": ["function"],
+            "settings": {
+              "foreground": "#D35400"
+            }
+          }
+        ]
+      }
+      

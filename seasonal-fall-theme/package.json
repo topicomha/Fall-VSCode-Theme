@@ -1,0 +1,29 @@
+{
+    "name": "seasonal-fall-theme",
+    "displayName": "Seasonal Fall Theme",
+    "description": "A cozy fall theme for Visual Studio Code.",
+    "version": "1.0.3",
+    "publisher": "topicomha",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seasonal Fall Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "compile": "echo 'No compilation necessary'"
+    },
+    "devDependencies": {
+        "typescript": "^4.4.4",
+        "vsce": "^1.85.0"
+    }
+}
