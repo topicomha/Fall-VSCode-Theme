@@ -2,7 +2,7 @@
     "name": "seasonal-fall-theme",
     "displayName": "Seasonal Fall Theme",
     "description": "A cozy fall theme for Visual Studio Code.",
-    "version": "1.0.3",
+    "version": "1.0.12",
     "publisher": "topicomha",
     "engines": {
         "vscode": "^1.56.0"
