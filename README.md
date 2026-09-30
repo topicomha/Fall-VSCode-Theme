@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is archived.** The fall theme lives on in **[Seasonal Themes](https://github.com/topicomha/SeasonalThemes)**: one VS Code extension with a theme for every month of the year (October's Halloween and November's Thanksgiving continue this one), in light and dark, following the month and your system's light/dark setting.
+>
+> **Get it from the [latest release](https://github.com/topicomha/SeasonalThemes/releases/latest).**
+
 # Seasonal Fall Theme
 
 A cozy fall theme for Visual Studio Code.
